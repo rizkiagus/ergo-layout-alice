@@ -1,1 +1,1 @@
-# The default keymap for bt66tech60
+# The default keymap for ergo
